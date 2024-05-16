@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Hello community 👋</h1>
-  <h2>I'm Chahbi Youssef,</h2># 💫 About Me:
+  <h2>I'm Chahbi Youssef,</h2><p></p># 💫 About Me:
 I am a driven Software Engineering student enrolled at 1337, a prestigious coding school within the 42 network. Fueled by a passion for web development, I immerse myself in both my studies and independent learning endeavors. My objective is clear: to evolve into a proficient Full Stack and Mobile Engineer, underpinned by a robust understanding of software engineering fundamentals.<br><br>I am not just studying software engineering; I am actively shaping my future in the tech world. With each line of code written and every project tackled, I am honing my skills and expanding my knowledge base. My ambition knows no bounds—I aspire to contribute meaningfully to innovative ventures and collaborate with fellow visionaries in the industry.<br><br>In me, you'll find a dedicated learner, a passionate coder, and a future leader in technology.
 
 
