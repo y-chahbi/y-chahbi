@@ -4,6 +4,8 @@
 I am a driven Software Engineering student enrolled at 1337, a prestigious coding school within the 42 network. Fueled by a passion for web development, I immerse myself in both my studies and independent learning endeavors. My objective is clear: to evolve into a proficient Full Stack and Mobile Engineer, underpinned by a robust understanding of software engineering fundamentals.<br><br>I am not just studying software engineering; I am actively shaping my future in the tech world. With each line of code written and every project tackled, I am honing my skills and expanding my knowledge base. My ambition knows no bounds—I aspire to contribute meaningfully to innovative ventures and collaborate with fellow visionaries in the industry.<br><br>In me, you'll find a dedicated learner, a passionate coder, and a future leader in technology.
 
 
+[![<ychahbi>'s 42 stats](https://badge.mediaplus.ma/darkblue/<ychahbi>)](https://github.com/oakoudad/badge42)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hisoka_kv) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100029396265753) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/c_ussf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/y-chahbi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/c_ussf) 
 
